@@ -1,0 +1,222 @@
+{
+  "header": {
+    "contactUs": "CONTACT US",
+    "projects": "PROJECTS",
+    "catalog": "CATALOG",
+    "appointment": "APPOINTMENT",
+    "aboutUs": "ABOUT US",
+    "category": "CATEGORY",
+    "login": "LOGIN",
+    "logout": "LOGOUT",
+    "welcome": "Welcome"
+  },
+  "home": {
+    "bookMeasurements": "Book Measurements",
+    "bookDarCrew": "Book Dar Crew",
+    "trackYourOrder": "Track Your Order",
+    "darDesign": "Dar Design",
+    "submitYourCV": "Submit Your CV",
+    "it": "IT",
+    "designer": "Designer",
+    "technology": "Technology",
+    "management": "Management",
+    "cv": "Submit Your CV"
+  },
+  "aboutUs": {
+    "ourLocation": "Our Location"
+  },
+  "ourLocation": {
+    "ourLocation": "Our Location"
+  },
+  "projects": {
+    "projectsCount": "Projects Count",
+    "darCatalogs": "DAR Catalogs",
+    "darTeam": "DAR Team",
+    "darProjects": "DAR Projects",
+    "delivered": "Delivered",
+    "current": "Current",
+    "awaitingDelivery": "Awaiting Delivery",
+    "old": "Old"
+  },
+  "catalog": {
+    "projectsCount": "Projects Count",
+    "darCatalogs": "DAR Catalogs",
+    "darTeam": "DAR Team",
+    "delivered": "Delivered",
+    "current": "Current",
+    "awaitingDelivery": "Awaiting Delivery",
+    "old": "Old"
+  },
+  "whyDar": {
+    "title": "Why Dar?",
+    "items": [
+      {
+        "title": "Online Access",
+        "description": "The company offers a user-friendly online platform that allows clients to access their design projects, communicate preferences, and monitor progress from anywhere, anytime. This feature emphasizes convenience and easy interaction with the design process."
+      },
+      {
+        "title": "Order Tracking",
+        "description": "Clients can track the status of their orders and projects in real-time through the online platform. This transparency ensures that clients are informed about the progress of their projects, fostering a sense of involvement and assurance."
+      },
+      {
+        "title": "Mobile Showroom (DAR CREW)",
+        "description": "The company has introduced an innovative concept of a mobile showroom, represented by 'DAR CREW.' This transformed car brings design inspiration directly to clients' doorsteps, showcasing materials, finishes, and design concepts in a captivating and accessible way."
+      },
+      {
+        "title": "Creative System",
+        "description": "The company's approach is rooted in creativity and innovation. Through advanced technology and creative solutions, they offer clients a range of unique design concepts that align with their preferences and requirements, pushing the boundaries of conventional design."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "The company recognizes the importance of accommodating various budgets. With a focus on client satisfaction, they provide flexible payment options tailored to individual financial preferences, ensuring that exceptional design is accessible to a wider audience."
+      },
+      {
+        "title": "Operational Efficiency",
+        "description": "The company's processes are optimized for efficiency, allowing them to seamlessly transition from design concepts to tangible results. This operational effectiveness is evident in their ability to execute design plans with precision, delivering quality outcomes within specified timelines."
+      },
+      {
+        "title": "Customer-Centric Approach",
+        "description": "The company prioritizes the client's experience, putting their needs and desires at the forefront. The online platform, mobile showroom, and flexible payment options all reflect the company's commitment to providing tailored solutions that cater to each client's unique preferences and circumstances."
+      },
+      {
+        "title": "Transparency",
+        "description": "Through the online platform and other communication channels, the company ensures transparent communication at every stage of the design and build process. This fosters trust and open dialogue between the company and its clients, making them feel valued and involved."
+      },
+      {
+        "title": "Holistic Design Approach",
+        "description": "Beyond aesthetics, the company considers the functionality and practicality of their designs. Their holistic approach ensures that each space is not only visually appealing but also optimized for comfort, functionality, and lifestyle, reflecting a deep understanding of the client's needs."
+      }
+    ],
+    "footer": "These core values reflect the company's dedication to pushing the boundaries of interior design and build, redefining the client experience through innovation, creativity, transparency, and tailored solutions.",
+    "ctaHeader": "READY TO JOIN DAR JOURNEY",
+    "ctaButton": "APPLY NOW"
+  },
+  "aboutDar": {
+    "title": "About Dar",
+    "items": [
+      {
+        "title": "Online Access",
+        "description": "The company offers a user-friendly online platform that allows clients to access their design projects, communicate preferences, and monitor progress from anywhere, anytime. This feature emphasizes convenience and easy interaction with the design process."
+      },
+      {
+        "title": "Order Tracking",
+        "description": "Clients can track the status of their orders and projects in real-time through the online platform. This transparency ensures that clients are informed about the progress of their projects, fostering a sense of involvement and assurance."
+      },
+      {
+        "title": "Mobile Showroom (DAR CREW)",
+        "description": "The company has introduced an innovative concept of a mobile showroom, represented by 'DAR CREW.' This transformed car brings design inspiration directly to clients' doorsteps, showcasing materials, finishes, and design concepts in a captivating and accessible way."
+      },
+      {
+        "title": "Creative System",
+        "description": "The company's approach is rooted in creativity and innovation. Through advanced technology and creative solutions, they offer clients a range of unique design concepts that align with their preferences and requirements, pushing the boundaries of conventional design."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "The company recognizes the importance of accommodating various budgets. With a focus on client satisfaction, they provide flexible payment options tailored to individual financial preferences, ensuring that exceptional design is accessible to a wider audience."
+      },
+      {
+        "title": "Operational Efficiency",
+        "description": "The company's processes are optimized for efficiency, allowing them to seamlessly transition from design concepts to tangible results. This operational effectiveness is evident in their ability to execute design plans with precision, delivering quality outcomes within specified timelines."
+      },
+      {
+        "title": "Customer-Centric Approach",
+        "description": "The company prioritizes the client's experience, putting their needs and desires at the forefront. The online platform, mobile showroom, and flexible payment options all reflect the company's commitment to providing tailored solutions that cater to each client's unique preferences and circumstances."
+      },
+      {
+        "title": "Transparency",
+        "description": "Through the online platform and other communication channels, the company ensures transparent communication at every stage of the design and build process. This fosters trust and open dialogue between the company and its clients, making them feel valued and involved."
+      },
+      {
+        "title": "Holistic Design Approach",
+        "description": "Beyond aesthetics, the company considers the functionality and practicality of their designs. Their holistic approach ensures that each space is not only visually appealing but also optimized for comfort, functionality, and lifestyle, reflecting a deep understanding of the client's needs."
+      }
+    ],
+    "footer": "These core values reflect the company's dedication to pushing the boundaries of interior design and build, redefining the client experience through innovation, creativity, transparency, and tailored solutions."
+  },
+  "darHistory": {
+    "title": "Dar History",
+    "description": "A Journey of Innovation and Excellence",
+    "items": [
+      {
+        "description": "DAR Company began just over three years ago with a dream: to revolutionize the design world, one personalized project at a time. What started as a small venture, driven by passion and ambition, quickly grew into a trusted name in the industry. From the outset, we recognized that building strong relationships with our customers was key. To do so, we took an innovative approach by offering free, custom designs to our clients, ensuring each of them felt heard and valued. This personalized touch was the cornerstone of our success, enabling us to stand out in a competitive market."
+      },
+      {
+        "description": "Our commitment to excellence and customer satisfaction sparked rapid growth. What began as a handful of projects soon evolved into a thriving business, fueled by the trust and loyalty of our clients. As the years went by, DAR Company became known for its attention to detail, creativity, and ability to turn any space into a work of art. To date, we’ve successfully completed over 300 projects, each a testament to our team's dedication and skill."
+      },
+      {
+        "description": "Always striving to push the boundaries of design, DAR Company recently introduced a groundbreaking service: Design Your Own Cabinet. This innovative offering not only empowers customers to create custom cabinetry tailored to their exact specifications but also allows them to track the progress of their orders in real time. This seamless integration of creativity and technology is just one example of how we’re continuing to evolve, meeting the growing demands of our clients while offering unmatched convenience."
+      },
+      {
+        "description": "From day one, DAR Company has prided itself on its ability to blend artistry with functionality. As we look to the future, our team remains dedicated to delivering exceptional designs, exceptional service, and above all, helping our clients realize their dream spaces. The journey is just beginning, and with a commitment to innovation and a customer-first mindset, there’s no limit to where DAR Company can go."
+      }
+    ]
+  },
+  "darPrinciples": {
+    "title": "Dar History",
+    "items": [
+      {
+        "title": "Innovation",
+        "description": "We are constantly striving to innovate and redefine the interior design experience. By embracing the latest trends, technologies, and creative approaches, we offer fresh and unique solutions that push the boundaries of design. Our commitment to innovation ensures that every space we create stands out and provides lasting value for our clients."
+      },
+      {
+        "title": "Creativity",
+        "description": "Creativity is at the heart of everything we do. We believe in designing spaces that are not only beautiful but also inspire and reflect the individuality of our clients. Our team of talented designers is driven by a passion for bringing creative ideas to life, ensuring that each project is unique, personalized, and beyond ordinary expectations."
+      },
+      {
+        "title": "Excellence",
+        "description": "We are dedicated to delivering the highest standards of excellence in every aspect of our work. From the initial concept to the final execution, we focus on quality, precision, and attention to detail. We take pride in our craftsmanship and commitment to providing exceptional results, ensuring that every project exceeds our clients' expectations."
+      },
+      {
+        "title": "Creative System",
+        "description": "The company's approach is rooted in creativity and innovation. Through advanced technology and creative solutions, they offer clients a range of unique design concepts that align with their preferences and requirements, pushing the boundaries of conventional design."
+      },
+      {
+        "title": "Humility",
+        "description": "Despite our rapid growth and success, we remain grounded in humility. We understand that the best designs come from collaboration, and we are always open to feedback and new ideas. We value the relationships we build with our clients and work hard to earn their trust by being honest, transparent, and dedicated to meeting their needs with care and respect."
+      },
+      {
+        "title": "Resourcefulness",
+        "description": "Resourcefulness is key to delivering outstanding results within our clients' budgets and timelines. We approach every project with a practical mindset, ensuring that we utilize available resources efficiently and creatively. Whether it's maximizing space, selecting sustainable materials, or finding cost-effective solutions, our team is skilled at delivering results that are both innovative and functional."
+      }
+    ],
+    "footer": "These core values reflect the company's dedication to pushing the boundaries of interior design and build, redefining the client experience through innovation, creativity, transparency, and tailored solutions."
+  },
+  "footer": {
+    "stayWithUs": "STAY WITH US",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "missionAndVision": "Mission and Vision",
+    "ourLocation": "Our Location",
+    "ourTeam": "Our Team",
+    "privacyPolicy": "Privacy Policy",
+    "explore": "Explore",
+    "faq": "FAQ",
+    "careers": "Careers",
+    "quickLinks": "Quick Links",
+    "bookAppointment": "Book Appointment",
+    "contactUs": "Contact Us",
+    "helpCenter": "Help Center",
+    "rightsReserved": "© 2024 All Rights Reserved | Dar Design Kuwait",
+    "sendYourCv": "Send Your CV",
+    "stayUpdated": "Stay updated with DAR Latest news"
+  },
+  "signup": {
+    "heading": "Create an Account",
+    "subheading": "Please fill in the details below to sign up",
+    "placeholders": {
+      "name": "Name",
+      "userId": "User ID",
+      "email": "Email of User",
+      "password": "Password",
+      "preferredLanguage": "Select preferred language",
+      "phone": "Phone Number"
+    },
+    "preferredLanguageOptions": {
+      "english": "English",
+      "arabic": "Arabic"
+    },
+    "button": "Sign Up",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login"
+  }
+}
